@@ -1,3 +1,7 @@
+# Idea project to keep user entertained when your website is under maintenance
+
+## Here are some songs that you can play
+
 Song Chords
 
 1. Jingle bell
